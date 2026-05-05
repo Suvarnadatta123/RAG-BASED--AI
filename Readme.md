@@ -1,4 +1,4 @@
-# How to use this RAG AI Teaching assistant on your own data
+# How to use this RAG AI Teaching assistant on our own data
 ## Step 1 - Collect the videos
 Move all videos files to the videos folder
 
